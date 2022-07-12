@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MyScenes/MainMenu.unity
+    guid: b1b992497c86a0043ad91ad14b0c0a81
+  - enabled: 1
+    path: Assets/MyScenes/Loading.unity
+    guid: 2ec499e076bf1e74d841f6fc9054ebad
+  - enabled: 1
+    path: Assets/MyScenes/HorrorScene 1.unity
+    guid: a7b4841166375444aa30369d7bdbce04
+  - enabled: 1
+    path: Assets/MyScenes/OpeningCutScene.unity
+    guid: 7d20a43d3a878324fae387187af955d9
+  - enabled: 1
+    path: Assets/MyScenes/Load.unity
+    guid: a542ab67d7545624ca4816f72ff76c66
+  - enabled: 1
+    path: Assets/MyScenes/FinalCutScene.unity
+    guid: d48a9887c8a4cb04c92dcd7b61a32111
+  - enabled: 1
+    path: Assets/MyScenes/Respawner.unity
+    guid: 2e27cf149af82084788e671acf40e2c8
+  m_configObjects: {}
